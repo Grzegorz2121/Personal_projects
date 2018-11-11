@@ -1,0 +1,15 @@
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\bin\Debug\New framework test.exe.config
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\bin\Debug\New framework test.exe
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\bin\Debug\New framework test.pdb
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test.csprojResolveAssemblyReference.cache
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\MainWindow.g.cs
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\App.g.cs
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test_MarkupCompile.cache
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test_MarkupCompile.lref
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\MainWindow.baml
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test.g.resources
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New_framework_test.Properties.Resources.resources
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test.csproj.GenerateResource.cache
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test.exe
+C:\Users\Grzegorz2121\source\repos\New framework test\New framework test\obj\Debug\New framework test.pdb

@@ -1,0 +1,15 @@
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\bin\Debug\PA_JSON_EDITOR.exe.config
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\bin\Debug\PA_JSON_EDITOR.exe
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\bin\Debug\PA_JSON_EDITOR.pdb
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.csprojResolveAssemblyReference.cache
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\Pa_Looker_2.Main_Form.resources
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.Properties.Resources.resources
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.csproj.GenerateResource.Cache
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.exe
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.pdb
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.JsonEditorForm.resources
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.JsonPropertiesScannerForm.resources
+C:\Users\Grzegorz\source\repos\PA_JSON_EDITOR\PA_JSON_EDITOR\obj\Debug\PA_JSON_EDITOR.PapaEditor.PapaEditorForm.resources
