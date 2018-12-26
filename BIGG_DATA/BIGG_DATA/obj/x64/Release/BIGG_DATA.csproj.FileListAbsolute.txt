@@ -1,0 +1,10 @@
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\bin\x64\Release\BIGG_DATA.exe.config
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\bin\x64\Release\BIGG_DATA.exe
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\bin\x64\Release\BIGG_DATA.pdb
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\obj\x64\Release\BIGG_DATA.Form1.resources
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\obj\x64\Release\BIGG_DATA.Properties.Resources.resources
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\obj\x64\Release\BIGG_DATA.csproj.GenerateResource.Cache
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\obj\x64\Release\BIGG_DATA.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\obj\x64\Release\BIGG_DATA.exe
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\obj\x64\Release\BIGG_DATA.pdb
+C:\Users\Grzegorz2121\source\repos\BIGG_DATA\BIGG_DATA\obj\x64\Release\BIGG_DATA.csprojResolveAssemblyReference.cache

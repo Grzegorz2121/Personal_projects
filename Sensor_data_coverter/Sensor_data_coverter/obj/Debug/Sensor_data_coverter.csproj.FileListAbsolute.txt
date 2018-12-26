@@ -1,0 +1,10 @@
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\bin\Debug\Sensor_data_coverter.exe.config
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\bin\Debug\Sensor_data_coverter.exe
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\bin\Debug\Sensor_data_coverter.pdb
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\obj\Debug\Sensor_data_coverter.csprojResolveAssemblyReference.cache
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\obj\Debug\Sensor_data_coverter.Form1.resources
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\obj\Debug\Sensor_data_coverter.Properties.Resources.resources
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\obj\Debug\Sensor_data_coverter.csproj.GenerateResource.Cache
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\obj\Debug\Sensor_data_coverter.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\obj\Debug\Sensor_data_coverter.exe
+C:\Users\Grzegorz2121\source\repos\Sensor_data_coverter\Sensor_data_coverter\obj\Debug\Sensor_data_coverter.pdb

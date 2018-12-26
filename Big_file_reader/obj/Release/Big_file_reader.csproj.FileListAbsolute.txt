@@ -1,0 +1,5 @@
+C:\Users\Grzegorz2121\source\repos\Big_file_reader\Big_file_reader\obj\Release\Big_file_reader.Form1.resources
+C:\Users\Grzegorz2121\source\repos\Big_file_reader\Big_file_reader\obj\Release\Big_file_reader.csproj.GenerateResource.Cache
+C:\Users\Grzegorz2121\source\repos\Big_file_reader\Big_file_reader\obj\Release\Big_file_reader.Properties.Resources.resources
+C:\Users\Grzegorz2121\source\repos\Big_file_reader\Big_file_reader\obj\Release\Big_file_reader.csproj.CoreCompileInputs.cache
+C:\Users\Grzegorz2121\source\repos\Big_file_reader\Big_file_reader\obj\Release\Big_file_reader.csprojResolveAssemblyReference.cache
