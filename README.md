@@ -5,7 +5,7 @@ Those projects aren't finished. Their syntax might be different in different par
 programs might crash due to unchecked conditions, and their implementation might be confusing, inefficient.
 
 Their only purpose it to show my ability to understand C# launguage.
-Code wasn't meant to be seen by other people than the author, thats why autor havent mady any usefull comments or documentation.
+Code wasn't meant to be seen by other people than the author, thats why autor haven't made any usefull comments or documentation.
 Those projects didnt have any plan. They were planed as they were coded. Mainly to learn and practice.
 They are not certanly good enough for publishing. They are only A PROOF OF CONCEPT - A PROTOTYPE.
 
