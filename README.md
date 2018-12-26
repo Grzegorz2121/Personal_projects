@@ -20,3 +20,10 @@ The main goal was to create a easy scripting launguage that is fast and "errorle
 
 PaJsonEditor is a windows forms application. It was made in order to edit and manage .json files containing json data structures.
 The app allows players of Planetary Anihilation community to edit unit parameters easly. In addition to that editor will be able to do various usefull funtions like: deconstructing unit models in order to retieve data about turret placement, comparing units, providing masks showing only the most important unit characteristics to a modder.
+
+Sensor_data_converter is a small app for converting 3d points from the array of heights to the list of points.
+It was created on win7 and only works on win7. win10 has some strange issues with parsing.
+
+Big_file_reader is an another small app used to check if the output from the Sensor_data_converter was correctly processed.
+
+BIGG_DATA is a app to create artificial matrixes (.csv format) used as testing data for the Sensor_data_converter
