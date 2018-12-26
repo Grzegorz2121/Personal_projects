@@ -12,7 +12,7 @@ They are not certanly good enough for publishing. They are only A PROOF OF CONCE
 If anybody want to know how those programs actualy work, author is happy to show and explain it personaly, throught
 video conference throught internet or in person.
 
-At they day of publishing this repository, all apps can be compiled and run.
+At they day of publishing this repository, all apps could have been compiled and run.
 
 DataLab is a WPF app. It is a graphical script interpreter where user can use "blocks" to create various data processing algorithms.
 Blocks are divided into 3(4) sections: Input, Output and Processing (+Flow) blocks. Those allow to collect, process and output the data.
